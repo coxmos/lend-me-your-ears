@@ -41,10 +41,7 @@ jobs:
       # 編譯 markdown 檔案
       run: |
         hexo clean
-        hexo generate
-
-    - name: Execute gulp task
-      run: gulp
+        hexo g
 
     - name: Deploy hexo blog
       env: 

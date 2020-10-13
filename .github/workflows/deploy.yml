@@ -34,6 +34,7 @@ jobs:
     - name: Install hexo dependencies
       # 下載 hexo-cli 腳手架及相關安裝包
       run: |
+        npm install hexo-cli gulp -g
         npm install
 
     - name: Generate files

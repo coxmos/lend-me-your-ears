@@ -1,8 +1,6 @@
 version: 4.0.0
 variant: default
-# Path or URL to the website's logo
 logo: https://cdn.jsdelivr.net/gh/coxmos/cdn@master/ear/avatar.png
-# Page metadata configurations
 head:
     favicon: https://cdn.jsdelivr.net/gh/coxmos/cdn@master/ear/avatar.png
     # Web application manifests configuration
@@ -101,6 +99,9 @@ navbar:
         Spotify:
             icon: fab fa-spotify
             url: 'https://open.spotify.com/show/3Y3bCgls9iO454FVI83nRn'
+        Apple Podcast:
+            icon: fas fa-podcast
+            url: 'https://podcasts.apple.com/us/podcast/耳朵借我/id1529083859'
         RSS:
             icon: fas fa-rss
             url: /rss.xml
@@ -109,6 +110,9 @@ footer:
         Spotify:
             icon: fab fa-spotify
             url: 'https://open.spotify.com/show/3Y3bCgls9iO454FVI83nRn'
+        Apple Podcast:
+            icon: fas fa-podcast
+            url: 'https://podcasts.apple.com/us/podcast/耳朵借我/id1529083859'
         RSS:
             icon: fas fa-rss
             url: /rss.xml
@@ -229,15 +233,15 @@ widgets:
             Spotify:
                 icon: fab fa-spotify
                 url: 'https://open.spotify.com/show/3Y3bCgls9iO454FVI83nRn'
+            Apple Podcast:
+                icon: fas fa-podcast
+                url: 'https://podcasts.apple.com/us/podcast/耳朵借我/id1529083859'
             RSS:
                 icon: fas fa-rss
                 url: /rss.xml
             Email:
                 icon: fas fa-at
                 url: mailto:ear.xiaoyuu.ga
-            Github:
-                icon: fab fa-github
-                url: 'https://github.com/coxmos/lend-me-your-ears'
             
 
     # Table of contents widget configurations

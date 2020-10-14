@@ -112,7 +112,7 @@ podcast:
   type: rss2
   path: rss.xml
   title: "耳朵借我"
-  description: "把耳朵借給馬世芳吧，電台節目「耳朵借我」非官方存檔。每週二晚更新，歡迎關注👏🏻另外也有「音樂五四三」存档,欢迎收听。如有問題或者建議，请在 ear.xiaoyuu.ga 留言，或者发邮件至 ear@xiaoyuu.ga"
+  description: "<p>把耳朵借給馬世芳吧，電台節目「耳朵借我」非官方存檔。每週二晚更新，歡迎關注👏🏻</p><p>另外也有「音樂五四三」存档,欢迎收听。</p><p>如有問題或者建議，请在 <a href='ear.xiaoyuu.ga'>ear.xiaoyuu.ga</a> 留言，或者发邮件至 ear@xiaoyuu.ga</p>"
   avatar: "https://cdn.jsdelivr.net/gh/coxmos/cdn@master/ear/avatar.png"
   language: "zh"
   category: "Music"

@@ -22,9 +22,11 @@ date: 2020-6-21 12:12:59
 
 本项目在 Spotify 正式上线啦 🎉  
 
-Spotify 用户请直接搜索「耳朵借我」，即可收听节目～  
+Spotify 用户请直接搜索「<a href='https://open.spotify.com/show/3Y3bCgls9iO454FVI83nRn'>耳朵借我</a> 」，即可收听节目～  
 
-<img src="https://cdn.jsdelivr.net/gh/coxmos/lend-me-your-ear@master/static/spotify.png" alt="avatar" style="zoom:60%;" />
+<a href='https://open.spotify.com/show/3Y3bCgls9iO454FVI83nRn'><img src="https://cdn.jsdelivr.net/gh/coxmos/lend-me-your-ear@master/static/spotify.png" alt="avatar" style="zoom:60%;" /></a>
+
+<iframe src="https://open.spotify.com/embed-podcast/show/3Y3bCgls9iO454FVI83nRn" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
 

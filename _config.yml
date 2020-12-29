@@ -112,7 +112,7 @@ podcast:
   type: rss2
   path: rss.xml
   title: "耳朵借我"
-  description: "<p>----------</p><p>把耳朵借給馬世芳吧，電台節目「耳朵借我」非官方存檔 Bootleg。共 354 集全，歡迎關注👏🏻</p><p>同時也有「<a href='https://music543.xiaoyuu.ga'>音樂五四三</a>」存檔,不定時更新，歡迎收聽～</p><p>感謝：<a href='https://www.facebook.com/shihfang.ma'>馬世芳老師</a> ｜ <a href='https://www.facebook.com/groups/258827734532615'>耳朵借給馬世芳－電台靴腿小組</a>❤️</p><p>專案主頁：<a href='https://ear.xiaoyuu.ga'>ear.xiaoyuu.ga</a></p><p>RSS 訂閱連結：<a href='https://ear.xiaoyuu.ga/rss.xml'>https://ear.xiaoyuu.ga/rss.xml</a></p><p>如有問題或建議，請傳郵件至：<a href='mailto:ear@xiaoyuu.ga'>ear@xiaoyuu.ga</a>📧</p>"
+  description: "<p>把耳朵借給馬世芳吧，電台節目「耳朵借我」非官方存檔 Bootleg。共 354 集全，歡迎關注👏🏻</p><p>同時也有「<a href='https://music543.xiaoyuu.ga'>音樂五四三</a>」存檔,不定時更新，歡迎收聽～</p><p>感謝：<a href='https://www.facebook.com/shihfang.ma'>馬世芳老師</a> ｜ <a href='https://www.facebook.com/groups/258827734532615'>耳朵借給馬世芳－電台靴腿小組</a>❤️</p><p>專案主頁：<a href='https://ear.xiaoyuu.ga'>ear.xiaoyuu.ga</a></p><p>RSS 訂閱連結：<a href='https://ear.xiaoyuu.ga/rss.xml'>https://ear.xiaoyuu.ga/rss.xml</a></p><p>如有問題或建議，請傳郵件至：<a href='mailto:ear@xiaoyuu.ga'>ear@xiaoyuu.ga</a>📧</p>"
   avatar: "https://cdn.jsdelivr.net/gh/coxmos/cdn@master/ear/avatar.png"
   language: "zh"
   category: "Music"

@@ -2,6 +2,7 @@
 title: 關於
 date: 2020-6-21 12:12:59
 ---
+
 <h1 align="center">耳朵借我</h1>
 <p align="center">
 此 Repo 为热心网友创建并维护，非官方，旨在为两岸三地的听众朋友提供便捷的收听方式。
@@ -23,8 +24,6 @@ date: 2020-6-21 12:12:59
 本项目在 Spotify 正式上线啦 🎉  
 
 Spotify 用户请直接搜索「<a href='https://open.spotify.com/show/3Y3bCgls9iO454FVI83nRn'>耳朵借我</a> 」，即可收听节目～  
-
-<a href='https://open.spotify.com/show/3Y3bCgls9iO454FVI83nRn'><img src="https://cdn.jsdelivr.net/gh/coxmos/lend-me-your-ear@master/static/spotify.png" alt="avatar" style="zoom:60%;" /></a>
 
 <iframe src="https://open.spotify.com/embed-podcast/show/3Y3bCgls9iO454FVI83nRn" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
@@ -97,19 +96,13 @@ https://ear.xiaoyuu.ga/rss.xml
 
 ## 节目列表
 
-- 2020 持续更新中...
+- 2020 (共 104 期全)
 
 - 2019（共 105 期全）
 
 - 2018（共 105 期全）
 
 - 2017（共 40 期全）
-
-
-
-## 计划 Todo
-
-1. 坚持更新 XD
 
 
 
@@ -140,4 +133,5 @@ https://ear.xiaoyuu.ga/rss.xml
 ## 联系
 
 如有问题或者建议，请直接在下方留言，或发邮件至 [ear@xiaoyuu.ga](mailto:ear@xiaoyuu.ga)  .
+
 

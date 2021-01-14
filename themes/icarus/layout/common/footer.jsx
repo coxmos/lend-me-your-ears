@@ -56,7 +56,7 @@ class Footer extends Component {
                     </div>
                 </div>
             </div>
-            <!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "22f7c2e16de049fe91da552a934f6e94"}'></script><!-- End Cloudflare Web Analytics -->
+           
         </footer>;
     }
 }
